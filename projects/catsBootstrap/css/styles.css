@@ -1,0 +1,19 @@
+body {
+    background-color: #c0c0c0;
+    color: #05386b;
+}
+
+.btn-custom {
+    background-color: #9aa59f;
+    color: white;
+    border: none;
+}
+
+.btn-custom:hover {
+    background-color: #868a8b;
+}
+
+.header-section {
+    background: url('../images/header.jpg') no-repeat center center/cover;
+    background-position: bottom;
+}
